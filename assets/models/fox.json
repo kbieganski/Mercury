@@ -1,0 +1,6 @@
+{
+    "mesh": "fox",
+    "material": "red_plastic",
+    "skeleton": "fox_skeleton",
+    "animations": ["fox_run"]
+}

@@ -1,0 +1,7 @@
+{
+    "shader": "plastic",
+    "baseColor": [0.8, 0.0, 0.0],
+    "roughness": 0.5,
+    "clearCoat": 1.0,
+    "clearCoatRoughness": 0.3
+}

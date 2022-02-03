@@ -1,0 +1,69 @@
+[submodule "imgui"]
+	path = ext/imgui
+	url = https://github.com/ocornut/imgui
+[submodule "sol2"]
+	path = ext/sol2
+	url = https://github.com/ThePhD/sol2
+[submodule "soloud"]
+	path = ext/soloud
+	url = https://github.com/jarikomppa/soloud
+[submodule "quill"]
+	path = ext/quill
+	url = https://github.com/odygrd/quill
+[submodule "glfw"]
+	path = ext/glfw
+	url = https://github.com/glfw/glfw
+[submodule "cereal"]
+	path = ext/cereal
+	url = https://github.com/USCiLab/cereal.git
+[submodule "doctest"]
+	path = ext/doctest
+	url = https://github.com/onqtam/doctest
+[submodule "LuaJIT"]
+	path = ext/LuaJIT
+	url = https://github.com/LuaJIT/LuaJIT.git
+[submodule "filament"]
+	path = ext/filament
+	url = https://github.com/google/filament.git
+[submodule "bullet"]
+	path = ext/bullet
+	url = https://github.com/bulletphysics/bullet3
+[submodule "ext/imnodes"]
+	path = ext/imnodes
+	url = https://github.com/Nelarius/imnodes
+[submodule "ext/rapidfuzz-cpp"]
+	path = ext/rapidfuzz
+	url = https://github.com/maxbachmann/rapidfuzz-cpp
+[submodule "ext/ImGuiColorTextEdit"]
+	path = ext/ImGuiColorTextEdit
+	url = https://github.com/BalazsJako/ImGuiColorTextEdit
+[submodule "ext/MicroPather"]
+	path = ext/MicroPather
+	url = https://github.com/leethomason/MicroPather
+[submodule "ext/json"]
+	path = ext/json
+	url = https://github.com/nlohmann/json
+[submodule "ext/ozz-animation"]
+	path = ext/ozz-animation
+	url = https://github.com/guillaumeblanc/ozz-animation
+[submodule "ext/gainput"]
+	path = ext/gainput
+	url = https://github.com/jkuhlmann/gainput
+[submodule "ext/recastnavigation"]
+	path = ext/recastnavigation
+	url = https://github.com/recastnavigation/recastnavigation
+[submodule "ext/v-hacd"]
+	path = ext/v-hacd
+	url = https://github.com/kmammou/v-hacd
+[submodule "ext/meshoptimizer"]
+	path = ext/meshoptimizer
+	url = https://github.com/zeux/meshoptimizer
+[submodule "ext/cista"]
+	path = ext/cista
+	url = https://github.com/felixguendling/cista/
+[submodule "ext/assimp"]
+	path = ext/assimp
+	url = https://github.com/assimp/assimp
+[submodule "ext/entt"]
+	path = ext/entt
+	url = https://github.com/skypjack/entt

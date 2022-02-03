@@ -1,0 +1,13 @@
+.cache
+.ccls-cache
+*.o
+imgui.ini
+compile_commands.json
+CMakeFiles
+CMakeCache.txt
+cmake_install.cmake
+_deps
+bin
+include
+out
+Makefile

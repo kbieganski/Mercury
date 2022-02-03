@@ -1,0 +1,12 @@
+diff --git a/libs/image/src/ImageSampler.cpp b/libs/image/src/ImageSampler.cpp
+index 00385e932..3a71bfe82 100644
+--- a/libs/image/src/ImageSampler.cpp
++++ b/libs/image/src/ImageSampler.cpp
+@@ -38,6 +38,7 @@ struct FilterFunction {
+     bool rejectExternalSamples = true;
+ };
+ 
++#undef M_PIf
+ constexpr float M_PIf = float(filament::math::F_PI);
+ 
+ const FilterFunction Box {
